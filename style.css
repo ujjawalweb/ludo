@@ -2513,6 +2513,13 @@ left: -202px;}
 .l2{position: relative;
     left: -63px;
 }
+.lc{position: relative;
+left: -189px;}
 
+.testim {
+    width: 100%;
+    position: absolute;
+    left: 248px;
+top: 50%;}
 
 }
